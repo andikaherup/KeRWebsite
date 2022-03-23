@@ -118,7 +118,7 @@ const ModelWeb = () => {
           mt="calc(0px - var(--spinner-size))"
         />
       )}
-      MODEL!!!
+    
     </Box>
   )
 }
